@@ -1,0 +1,15 @@
+[package]
+name = "vgnr"
+version = "0.1.0"
+edition = "2021"
+authors = ["marcosfpr <mfprezende@gmail.com>"]
+description = "Le Chiffre Indéchiffrable"
+repository = "https://github.com/marcosfpr/vgnr"
+license-file = "LICENSE"
+keywords = ["cryptography", "classic", "vigenere"]
+categories = ["science", "cryptography"]
+
+[lib]
+doctest = false
+
+[dependencies]
