@@ -89,6 +89,3 @@ See more about breaking the Vigenère cipher in the [Wiki](https://en.wikipedia.
 Use this crate as a challenge to learn more about cryptography and
 try to break the Vigenère cipher. It's a fun exercise.
 
-# References
-
-[Wikipedia](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher)
